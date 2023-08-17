@@ -1,0 +1,15 @@
+C:\codigos\projetos C#\WithdrawalBankAccount\WithdrawalBankAccount\bin\Debug\net7.0\WithdrawalBankAccount.exe
+C:\codigos\projetos C#\WithdrawalBankAccount\WithdrawalBankAccount\bin\Debug\net7.0\WithdrawalBankAccount.deps.json
+C:\codigos\projetos C#\WithdrawalBankAccount\WithdrawalBankAccount\bin\Debug\net7.0\WithdrawalBankAccount.runtimeconfig.json
+C:\codigos\projetos C#\WithdrawalBankAccount\WithdrawalBankAccount\bin\Debug\net7.0\WithdrawalBankAccount.dll
+C:\codigos\projetos C#\WithdrawalBankAccount\WithdrawalBankAccount\bin\Debug\net7.0\WithdrawalBankAccount.pdb
+C:\codigos\projetos C#\WithdrawalBankAccount\WithdrawalBankAccount\obj\Debug\net7.0\WithdrawalBankAccount.csproj.AssemblyReference.cache
+C:\codigos\projetos C#\WithdrawalBankAccount\WithdrawalBankAccount\obj\Debug\net7.0\WithdrawalBankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\projetos C#\WithdrawalBankAccount\WithdrawalBankAccount\obj\Debug\net7.0\WithdrawalBankAccount.AssemblyInfoInputs.cache
+C:\codigos\projetos C#\WithdrawalBankAccount\WithdrawalBankAccount\obj\Debug\net7.0\WithdrawalBankAccount.AssemblyInfo.cs
+C:\codigos\projetos C#\WithdrawalBankAccount\WithdrawalBankAccount\obj\Debug\net7.0\WithdrawalBankAccount.csproj.CoreCompileInputs.cache
+C:\codigos\projetos C#\WithdrawalBankAccount\WithdrawalBankAccount\obj\Debug\net7.0\WithdrawalBankAccount.dll
+C:\codigos\projetos C#\WithdrawalBankAccount\WithdrawalBankAccount\obj\Debug\net7.0\refint\WithdrawalBankAccount.dll
+C:\codigos\projetos C#\WithdrawalBankAccount\WithdrawalBankAccount\obj\Debug\net7.0\WithdrawalBankAccount.pdb
+C:\codigos\projetos C#\WithdrawalBankAccount\WithdrawalBankAccount\obj\Debug\net7.0\WithdrawalBankAccount.genruntimeconfig.cache
+C:\codigos\projetos C#\WithdrawalBankAccount\WithdrawalBankAccount\obj\Debug\net7.0\ref\WithdrawalBankAccount.dll
